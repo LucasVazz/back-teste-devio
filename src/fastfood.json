@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "name": "Hambúrguer",
+        "description": "Burgao da casa, 200g de delicia, carne bovina, alface americana e tomate italiano!",
+        "price": "26,00",
+        "category": "hamburguer",
+        "image": "../src/assets/images/hamburger.png"
+     },
+     {
+        "id": "2",
+        "name": "Batata",
+        "description": "Batata crocante e frita na hora!",
+        "price": "12,00",
+        "category": "batata",
+        "image": "../src/assets/images/batata.png"
+     },
+     {
+        "id": "3",
+        "name": "Sanduiche natural",
+        "description": "Sanduiche natural, alface americana e molho caseiro!",
+        "price": "22,00",
+        "category": "sanduiche",
+        "image": "../src/assets/images/sanduiche.png"
+     },
+     {
+        "id": "4",
+        "name": "Sorvete de chocolate",
+        "description": "Venha adoçar sua vida com nosso sorvete de chocolate!",
+        "price": "13,00",
+        "category": "sobremesa",
+        "image": "../src/assets/images/sorvete.png"
+     },
+     {
+        "id": "5",
+        "name": "Coca cola lata",
+        "description": "Coca cola lata 210ml, cai bem com tudo!",
+        "price": "6,00",
+        "category": "bebidas",
+        "image": "../src/assets/images/cocacola.png"
+     },
+     {
+        "id": "6",
+        "name": "Acai",
+        "description": "Acai natural 500ml, natural do Pará.",
+        "price": "14,00",
+        "category": "Sobremesa",
+        "image": "../src/assets/images/acai.png"
+     },
+     {
+        "id": "7",
+        "name": "Pizza",
+        "description": "Pizza com massa italiana, especialidade do Chefe!",
+        "price": "35,00",
+        "category": "Pizza",
+        "image": "../src/assets/images/pizza.png"
+     },
+     {
+        "id": "8",
+        "name": "Suco",
+        "description": "Copo de suco de laranja natural geladinho.",
+        "price": "8,00",
+        "category": "bebidas",
+        "image": "../src/assets/images/suco.png"
+     }
+    ]
+    
